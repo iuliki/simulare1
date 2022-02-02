@@ -6,7 +6,7 @@ namespace simulare1
 {
     public class triunghi
     {
-        triunghi(punct a, punct b, punct c) 
+       public triunghi(punct a, punct b, punct c) 
         {
             this.a = a;
             this.b = b;

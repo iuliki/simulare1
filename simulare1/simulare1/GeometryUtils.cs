@@ -4,9 +4,9 @@ using System.Text;
 
 namespace simulare1
 {
-    public class GeometryUtils
+    public static class GeometryUtils
     {
-        public void Translate(int ox, int oy,triunghi[] triunghiuri)
+        public static void Translate(int ox, int oy,triunghi[] triunghiuri)
         {
             for (int i = 0; i < triunghiuri.Length; i++)
             {
@@ -17,17 +17,24 @@ namespace simulare1
                 triunghiuri[i].c.x = triunghiuri[i].c.x + ox;
                 triunghiuri[i].c.y = triunghiuri[i].c.y + oy;
 
+
             } 
         }
 
-        public void Translate(int ox, int oy, dreptunghi[] dreptunghiuri)
+        public static void Translate(int ox, int oy, dreptunghi[] dreptunghiuri)
         {
-            dreptunghiuri[i].a.x = dreptunghiuri[i].a.x + ox;
-            dreptunghiuri[i].a.y = dreptunghiuri[i].a.y + oy;
-            dreptunghiuri[i].b.x = dreptunghiuri[i].b.x + ox;
-            dreptunghiuri[i].b.y = dreptunghiuri[i].b.y + oy;
-            dreptunghiuri[i].c.x = dreptunghiuri[i].c.x + ox;
-            dreptunghiuri[i].c.y = dreptunghiuri[i].c.y + oy;
+            for (int i = 0; i < dreptunghiuri.Length; i++)
+            {
+                dreptunghiuri[i].a.x = dreptunghiuri[i].a.x + ox;
+                dreptunghiuri[i].a.y = dreptunghiuri[i].a.y + oy;
+                dreptunghiuri[i].b.x = dreptunghiuri[i].b.x + ox;
+                dreptunghiuri[i].b.y = dreptunghiuri[i].b.y + oy;
+                dreptunghiuri[i].c.x = dreptunghiuri[i].c.x + ox;
+                dreptunghiuri[i].c.y = dreptunghiuri[i].c.y + oy;
+                dreptunghiuri[i].d.x = dreptunghiuri[i].d.x + ox;
+                dreptunghiuri[i].d.y = dreptunghiuri[i].d.y + oy;
+
+            }
 
         }
 

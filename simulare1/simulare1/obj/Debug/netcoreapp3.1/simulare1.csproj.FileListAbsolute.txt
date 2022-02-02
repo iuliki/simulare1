@@ -1,0 +1,13 @@
+E:\fac emanuel it\info\bazele informaticii\pregatire pentru examen\simulare1\simulare1\simulare1\bin\Debug\netcoreapp3.1\simulare1.exe
+E:\fac emanuel it\info\bazele informaticii\pregatire pentru examen\simulare1\simulare1\simulare1\bin\Debug\netcoreapp3.1\simulare1.deps.json
+E:\fac emanuel it\info\bazele informaticii\pregatire pentru examen\simulare1\simulare1\simulare1\bin\Debug\netcoreapp3.1\simulare1.runtimeconfig.json
+E:\fac emanuel it\info\bazele informaticii\pregatire pentru examen\simulare1\simulare1\simulare1\bin\Debug\netcoreapp3.1\simulare1.runtimeconfig.dev.json
+E:\fac emanuel it\info\bazele informaticii\pregatire pentru examen\simulare1\simulare1\simulare1\bin\Debug\netcoreapp3.1\simulare1.dll
+E:\fac emanuel it\info\bazele informaticii\pregatire pentru examen\simulare1\simulare1\simulare1\bin\Debug\netcoreapp3.1\simulare1.pdb
+E:\fac emanuel it\info\bazele informaticii\pregatire pentru examen\simulare1\simulare1\simulare1\obj\Debug\netcoreapp3.1\simulare1.csprojAssemblyReference.cache
+E:\fac emanuel it\info\bazele informaticii\pregatire pentru examen\simulare1\simulare1\simulare1\obj\Debug\netcoreapp3.1\simulare1.AssemblyInfoInputs.cache
+E:\fac emanuel it\info\bazele informaticii\pregatire pentru examen\simulare1\simulare1\simulare1\obj\Debug\netcoreapp3.1\simulare1.AssemblyInfo.cs
+E:\fac emanuel it\info\bazele informaticii\pregatire pentru examen\simulare1\simulare1\simulare1\obj\Debug\netcoreapp3.1\simulare1.csproj.CoreCompileInputs.cache
+E:\fac emanuel it\info\bazele informaticii\pregatire pentru examen\simulare1\simulare1\simulare1\obj\Debug\netcoreapp3.1\simulare1.dll
+E:\fac emanuel it\info\bazele informaticii\pregatire pentru examen\simulare1\simulare1\simulare1\obj\Debug\netcoreapp3.1\simulare1.pdb
+E:\fac emanuel it\info\bazele informaticii\pregatire pentru examen\simulare1\simulare1\simulare1\obj\Debug\netcoreapp3.1\simulare1.genruntimeconfig.cache

@@ -17,10 +17,10 @@ namespace simulare1
 
             for (int i = 0;i< triunghiuri.Length;i++)
             {  
+                Console.WriteLine(triunghiuri[i].a.x);
+                Console.WriteLine(triunghiuri[i].a.y);
                 Console.WriteLine(triunghiuri[i].b.x);
-                Console.WriteLine(triunghiuri[i].b.x);
-                Console.WriteLine(triunghiuri[i].b.x);
-                Console.WriteLine(triunghiuri[i].b.x);
+                Console.WriteLine(triunghiuri[i].b.y);
                 Console.WriteLine(triunghiuri[i].c.x);
                 Console.WriteLine(triunghiuri[i].c.y);
             }

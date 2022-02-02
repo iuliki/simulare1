@@ -6,15 +6,14 @@ namespace simulare1
 {
     public class punct
     {
-        punct(int x, int y)
+        public punct(int x, int y)
         {
             this.x = x;
             this.y = y;
-
         }
 
-        int x { get; set; }
-        int y { get; set; }
+       public int x { get; set; }
+        public int y { get; set; }
 
 
     }

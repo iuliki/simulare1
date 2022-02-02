@@ -13,9 +13,9 @@ namespace simulare1
             this.c = c;
 
         }
-        punct a { get; set; }
-        punct b { get; set; }
-        punct c { get; set; }
+        public punct a { get; set; }
+        public punct b { get; set; }
+        public punct c { get; set; }
         
 
 
